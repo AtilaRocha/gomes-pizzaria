@@ -1,2 +1,2 @@
-# gomes-pizzaria
-Microservice for a 'gomes-pizzaria'
+# pizzaria-gomes
+Microservice for a 'pizzaria-gomes'

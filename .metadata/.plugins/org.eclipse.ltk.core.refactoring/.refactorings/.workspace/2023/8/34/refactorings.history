@@ -1,4 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">
-<refactoring comment="Delete 8 resources" deleteContents="false" description="Delete 8 resources" element1="/hr-api-gateway-zuul" element2="/hr-config-server" element3="/hr-eureka-server" element4="/hr-oauth" element5="/hr-payroll" element6="/hr-user" element7="/hr-worker" element8="/pizzaria-gomes" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="8" stamp="1692657645301"/>
-</session>
